@@ -1,0 +1,8 @@
+<sty>
+*btn1 = color(#FF0000)
+*btn2 = color(#00FF00)
+</sty>
+
+<text color="#0000FF">Oi</text>
+<btn id="btn1">Clique</btn>
+<btn id="btn2">Sai</btn>
